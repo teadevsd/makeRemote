@@ -1,0 +1,17 @@
+
+
+.productCont {
+    width: 300px;
+    height: auto;
+    /* background-color: rgba(255, 230, 183, 0.452); */
+    /* border: 1px solid; */
+    padding: 20px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    box-shadow: 1px 1px 6px rgba(128, 128, 128, 0.466);
+}
+
+.productCont:hover{
+    transform: scale(1.1, 1.1);
+    transition: all 0.3s ease-in-out;
+}

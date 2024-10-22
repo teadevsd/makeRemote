@@ -1,0 +1,10 @@
+.post-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.blogcont {
+    padding: 15px;
+}
